@@ -1,4 +1,4 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
-*/
+// variable avec une ternaire si l'operation est vrai alors 'Below' sinon "Over"
+let result = (a + b < 4) ? 'Below' : 'Over';
+
+
