@@ -1,4 +1,2 @@
-/*  Votre code Javascript vient ici:
-      - Vous pourrez visualiser le résultat en ouvrant index.html dans votre navigateur.
-      - N'oubliez pas de sauvegarder pour afficher les changements.
-*/
+/*  les @ boucle afficherons 4 a la fin quoi qu'il arrive etant donné que les 
+incrementation sont indepedant de la verification de condition */
